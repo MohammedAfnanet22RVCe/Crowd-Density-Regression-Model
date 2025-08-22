@@ -1,0 +1,10 @@
+numpy
+scipy
+opencv-python
+pillow
+h5py
+scikit-learn
+tqdm
+matplotlib
+tensorflow
+kaggle
