@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+conda-env/
+.conda/
+
+# Jupyter / Colab
+*.ipynb
+.ipynb_checkpoints/
+.colab/
+
+# Logs
+*.log
+
+# Dataset and models (ignored from GitHub)
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+
+# Kaggle API key (DO NOT UPLOAD)
+kaggle.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
